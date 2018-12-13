@@ -1,1 +1,1 @@
-# cnv-correction
+Implementation of the regression method from Cai, Ling, et al. "Genomic regression analysis of coordinated expression." Nature communications 8.1 (2017): 2187. to correct the effect of cnvs on rna seq expression values. Used with BRCA dataset from TCGA
